@@ -1,0 +1,14 @@
+<items>
+    <item>
+        <title>Item 1</title>
+        <description>This is the description of item 1.</description>
+    </item>
+    <item>
+        <title>Item 2</title>
+        <description>This is the description of item 2.</description>
+    </item>
+    <item>
+        <title>Item 3</title>
+        <description>This is the description of item 3.</description>
+    </item>
+</items>
